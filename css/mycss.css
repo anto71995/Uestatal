@@ -1,0 +1,38 @@
+body {
+ background-color: blue;
+}
+
+.todo {
+}
+
+#cabecera{
+    opacity: 1;
+    text-align: center;
+}
+
+#contenido {
+    min-height: 401px;
+
+}
+
+#footer {
+}
+
+
+
+#img2 {
+    height:10%;
+    width:100%;
+}
+
+.tabla{
+    margin: auto;
+    width: 800px;
+    border-collapse: separate;
+    border-spacing: 10px 5px;
+}
+
+.imagen{
+    height:15%;
+    width:100%;    
+}
